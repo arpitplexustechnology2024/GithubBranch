@@ -15,10 +15,6 @@ class ViewController: UIViewController {
         
         
         print("Arpit Dhameliya")
-        
-        
-        
-        print("I am iOS Developer.")
     }
 
 
